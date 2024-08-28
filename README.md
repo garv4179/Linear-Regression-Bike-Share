@@ -40,14 +40,10 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 - Month of August and October are the best months to rent bikes as they see most increase in bikes rented.
 - Month of Jan is not the best month to rent bikes as it sees decrease in bikes rented.
 - Days with low windspeed also see increase in bikes rented and are good opportunities for business.
-- The bikes rented are decreased in rainy and cloudy weather.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Result
-
-We achieved the following results:
-
 - Test Accuracy: 0.795
 - RMSE : 0.0986
 - Mean Absolute Error : 0.0746
@@ -71,6 +67,9 @@ This project was inspired by UpGrad IITB Programme as a case study for the Machi
 ## Contact
 
 Created by [@garv4179] - feel free to contact me!
+
+**##Contribution by-**
+Gaurav Ahuja
 
 <!-- Optional -->
 
